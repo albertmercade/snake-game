@@ -1,7 +1,7 @@
 # Snake App
 This app is a Snake game clone for iOS. In it the snake has to eat food to grow and score points, it can also travel through walls and dies only when it crashes into itself.
 
-## Features
+## Features
 There are two game modes, one in which the snake moves at a constant speed that the user defines and another where the speed of the snake increases as it grows.
 
 ![No Walls](assets/screenshots/nowalls.gif)
